@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  Chief Problem Solver.
+  making it work.
 </p>
 
 <p align='center'>
